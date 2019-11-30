@@ -1,0 +1,6 @@
+framework module Pods_CoinPresentor {
+  umbrella header "Pods-CoinPresentor-umbrella.h"
+
+  export *
+  module * { export * }
+}
